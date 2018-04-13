@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface XxiTableViewCell : UITableViewCell
-
+@property(nonatomic,strong)UILabel *label;
 @end
